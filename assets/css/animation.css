@@ -1,0 +1,305 @@
+@keyframes typing {
+  0% {
+    content: " |";
+  }
+  1% {
+    content: " D|";
+  }
+  2% {
+    content: " De|";
+  }
+  3% {
+    content: " Des|";
+  }
+  4% {
+    content: " Desi|";
+  }
+  5% {
+    content: " Desig|";
+  }
+  6% {
+    content: " Design|";
+  }
+  7% {
+    content: " Designe|";
+  }
+  8% {
+    content: " Designer|";
+  }
+  9% {
+    content: " Designer |";
+  }
+  10% {
+    content: " Designe|";
+  }
+  11% {
+    content: " Design|";
+  }
+  12% {
+    content: " Desig|";
+  }
+  13% {
+    content: " Desi|";
+  }
+  14% {
+    content: " Des|";
+  }
+  15% {
+    content: " De|";
+  }
+  16% {
+    content: " D|";
+  }
+  17% {
+    content: " |";
+  }
+  18% {
+    content: " Deve|";
+  }
+  19% {
+    content: " Devel|";
+  }
+  20% {
+    content: " Develop|";
+  }
+  21% {
+    content: " Develope|";
+  }
+  22% {
+    content: " Developer|";
+  }
+  23% {
+    content: " Developer |";
+  }
+  24% {
+    content: " Develop|";
+  }
+  25% {
+    content: " Devel|";
+  }
+  26% {
+    content: " Deve|";
+  }
+  27% {
+    content: " Dev|";
+  }
+  28% {
+    content: " De|";
+  }
+  29% {
+    content: " D|";
+  }
+  30% {
+    content: " |";
+  }
+  31% {
+    content: " F|";
+  }
+  32% {
+    content: " Fr|";
+  }
+  33% {
+    content: " Fre|";
+  }
+  34% {
+    content: " Freel|";
+  }
+  35% {
+    content: " Freela|";
+  }
+  36% {
+    content: " Freelanc|";
+  }
+  37% {
+    content: " Freelance|";
+  }
+  38% {
+    content: " Freelancer|";
+  }
+  39% {
+    content: " Freelancer |";
+  }
+  40% {
+    content: " Freelance|";
+  }
+  41% {
+    content: " Freelanc|";
+  }
+  42% {
+    content: " Freelan|";
+  }
+  43% {
+    content: " Freela|";
+  }
+  44% {
+    content: " Freel|";
+  }
+  45% {
+    content: " Free|";
+  }
+  46% {
+    content: " Freel|";
+  }
+  47% {
+    content: " Freela|";
+  }
+  48% {
+    content: " Freelanc|";
+  }
+  49% {
+    content: " Freelance|";
+  }
+  50% {
+    content: " Freelancer|";
+  }
+  51% {
+    content: " Freelancer |";
+  }
+  52% {
+    content: " Freelance|";
+  }
+  53% {
+    content: " Freelanc|";
+  }
+  54% {
+    content: " Freelan|";
+  }
+  55% {
+    content: " Freela|";
+  }
+  56% {
+    content: " Freel|";
+  }
+  57% {
+    content: " Free|";
+  }
+  58% {
+    content: " Freel|";
+  }
+  59% {
+    content: " Freelance|";
+  }
+  60% {
+    content: " Freelancer|";
+  }
+  61% {
+    content: " Freelancer |";
+  }
+  62% {
+    content: " Freelance|";
+  }
+  63% {
+    content: " Freelanc|";
+  }
+  64% {
+    content: " Freelan|";
+  }
+  65% {
+    content: " Freela|";
+  }
+  66% {
+    content: " Freel|";
+  }
+  67% {
+    content: " Free|";
+  }
+  68% {
+    content: " Freel|";
+  }
+  69% {
+    content: " Freelancer |";
+  }
+  70% {
+    content: " Freelance|";
+  }
+  71% {
+    content: " Freelanc |";
+  }
+  72% {
+    content: " Freelan|";
+  }
+  73% {
+    content: " Freela|";
+  }
+  74% {
+    content: " Freel|";
+  }
+  75% {
+    content: " Free|";
+  }
+  76% {
+    content: " Fre|";
+  }
+  77% {
+    content: " Fr|";
+  }
+  78% {
+    content: " |";
+  }
+  79% {
+    content: " P|";
+  }
+  80% {
+    content: " Ph|";
+  }
+  81% {
+    content: " Pho|";
+  }
+  82% {
+    content: " Phot|";
+  }
+  83% {
+    content: " Photo|";
+  }
+  84% {
+    content: " Photog|";
+  }
+  85% {
+    content: " Photogr|";
+  }
+  86% {
+    content: " Photogra|";
+  }
+  87% {
+    content: " Photograp|";
+  }
+  88% {
+    content: " Photograph|";
+  }
+  89% {
+    content: " Photographe|";
+  }
+  90% {
+    content: " Photographer|";
+  }
+  91% {
+    content: " Photographer |";
+  }
+  92% {
+    content: " Photograph|";
+  }
+  93% {
+    content: " Photograp|";
+  }
+  94% {
+    content: " Photogra|";
+  }
+  95% {
+    content: " Photogr|";
+  }
+  96% {
+    content: " Photog|";
+  }
+  97% {
+    content: " Photo|";
+  }
+  98% {
+    content: " Phot|";
+  }
+  99% {
+    content: " Pho|";
+  }
+  100% {
+    content: " |";
+  }
+}
